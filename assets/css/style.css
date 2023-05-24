@@ -494,11 +494,6 @@ h6 {
   height: 100%;
 }
 
-.gallery:before {
-  display: block;
-  text-align: center;
-}
-
 .gallery-1 {
   background: url("../img/bg2.jpeg") top center;
   background-size: cover;
@@ -520,22 +515,16 @@ h6 {
 }
 
 .gallery-5 {
-<<<<<<< HEAD
-  background: url("../img/bg5.jpeg") top center;
-=======
-  background: url("../img/bg8.jpeg") top center;
->>>>>>> 15bc95a (Add Project)
+  background: url("../img/bg7.jpeg") top center;
   background-size: cover;
 }
 
 .gallery-6 {
-<<<<<<< HEAD
-  background: url("../img/bg7.jpg") top center;
-=======
-  background: url("../img/bg7.jpeg") top center;
->>>>>>> 15bc95a (Add Project)
+  background: url("../img/bg8.jpeg") top center;
   background-size: cover;
+
 }
+
 
 @media (min-width: 1024px) {
   #hero {
